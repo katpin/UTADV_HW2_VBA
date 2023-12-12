@@ -1,2 +1,2 @@
-# KPinDataBootCampHW
-Data Boot Camp homework repository for Katarina Pin
+# UTADV_HW2_VBA
+UT Austin Data Visualization Boot Camp Week 2 VBA Homework
